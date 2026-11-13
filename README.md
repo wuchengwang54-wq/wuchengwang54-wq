@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=210&section=header&text=Hello%2C%20World!&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=Java%20%7C%20Backend%20Development%20%7C%20CSU&descAlignY=58&descSize=17" width="100%" />
 
-# Hi there, I'm Wucheng 👋
+# 窝真的没话说 👋
 
 ### 🎓 Computer Science Student @ Central South University
 
